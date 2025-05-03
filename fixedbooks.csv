@@ -1,0 +1,49 @@
+Book;Author;Description;Genre;Avg_Rating;Num_Ratings;URL
+Harry Potter;JK Rowling;Wizard Book about friends and magic;Fantasy;9.0;100000;https://www.amazon.com/harry-potter-books/s?k=harry+potter+books
+The Hobbit;J.R.R. Tolkien;A hobbit embarks on a journey with dwarves to reclaim treasure;Fantasy;9.0;85000;https://www.amazon.com/hobbit
+1984;George Orwell;Dystopian novel about surveillance and totalitarianism;Dystopian;9.0;78000;https://www.amazon.com/1984
+To Kill a Mockingbird;Harper Lee;Explores racial injustice in the Deep South;Historical Fiction;8.9;92000;https://www.amazon.com/to-kill-a-mockingbird
+The Great Gatsby;F. Scott Fitzgerald;A story about the American dream in the 1920s;Classic;8.8;70000;https://www.amazon.com/great-gatsby
+Pride and Prejudice;Jane Austen;Classic romantic novel set in 19th century England;Fiction;8.8;83000;https://www.amazon.com/pride-and-prejudice
+Moby Dick;Herman Melville;The obsessive quest of Ahab for the white whale;Fiction;8.9;61000;https://www.amazon.com/moby-dick
+War and Peace;Leo Tolstoy;Epic tale of Russian society during the Napoleonic era;Fiction;8.0;69000;https://www.amazon.com/war-and-peace
+Crime and Punishment;Fyodor Dostoevsky;Psychological drama of a man contemplating murder;Fiction;8.1;75000;https://www.amazon.com/crime-and-punishment
+Jane Eyre;Charlotte Brontë;A woman’s journey through hardship and love;Romance;8.9;72000;https://www.amazon.com/jane-eyre
+Brave New World;Aldous Huxley;Dystopian future controlled by technology and conditioning;Dystopian;8.8;65000;https://www.amazon.com/brave-new-world
+The Catcher in the Rye;J.D. Salinger;Teenage rebellion and alienation;Fiction;8.7;74000;https://www.amazon.com/catcher-in-the-rye
+Frankenstein;Mary Shelley;The story of a scientist who creates a sentient creature;Fiction;8.1;62000;https://www.amazon.com/frankenstein
+The Lord of the Rings;J.R.R. Tolkien;Epic fantasy adventure across Middle-earth;Fantasy;9.0;115000;https://www.amazon.com/lord-of-the-rings
+Fahrenheit 451;Ray Bradbury;Society where books are outlawed and burned;Fiction;8.5;67000;https://www.amazon.com/fahrenheit-451
+The Alchemist;Paulo Coelho;A young shepherd's journey to fulfill his dream;Fiction;9.0;71000;https://www.amazon.com/the-alchemist
+The Book Thief;Markus Zusak;A girl steals books in Nazi Germany;Fiction;9.0;79000;https://www.amazon.com/book-thief
+The Giver;Lois Lowry;A boy learns the dark secrets of his seemingly perfect society;Fiction;9.0;64000;https://www.amazon.com/the-giver
+The Chronicles of Narnia;C.S. Lewis;Children find a magical world through a wardrobe;Fantasy;8.8;86000;https://www.amazon.com/narnia
+Animal Farm;George Orwell;Satirical allegory about a farm revolution gone wrong;Dystopian;8.9;88000;https://www.amazon.com/animal-farm
+Dracula;Bram Stoker;The original vampire tale;Fiction;8.0;60000;https://www.amazon.com/dracula
+Les Misérables;Victor Hugo;Redemption and revolution in 19th century France;Fiction;8.5;73000;https://www.amazon.com/les-miserables
+The Picture of Dorian Gray;Oscar Wilde;A man stays young while his portrait ages;Fiction;8.9;66000;https://www.amazon.com/dorian-gray
+Wuthering Heights;Emily Brontë;Tragic romance on the Yorkshire moors;Romance;8.6;69000;https://www.amazon.com/wuthering-heights
+The Kite Runner;Khaled Hosseini;A story of friendship and redemption set in Afghanistan;Fiction;9.4;82000;https://www.amazon.com/kite-runner
+The Shining;Stephen King;Haunted hotel drives man to madness;Fiction;9.3;81000;https://www.amazon.com/the-shining
+It;Stephen King;Childhood fears come to life in the form of a clown;Fiction;8.5;79000;https://www.amazon.com/it-stephen-king
+The Hunger Games;Suzanne Collins;Teens fight to the death in a dystopian arena;Dystopian;8.8;95000;https://www.amazon.com/hunger-games
+Dune;Frank Herbert;Political intrigue and prophecy on a desert planet;Fiction;9.0;90000;https://www.amazon.com/dune
+The Fault in Our Stars;John Green;Teen romance in the face of terminal illness;Romance;9.0;87000;https://www.amazon.com/fault-in-our-stars
+Twilight;Stephenie Meyer;A teenage girl falls in love with a vampire;Romance;8.0;68000;https://www.amazon.com/twilight
+The Maze Runner;James Dashner;Teens navigate a deadly maze;Fiction;8.6;72000;https://www.amazon.com/maze-runner
+Percy Jackson;Rick Riordan;A boy discovers he is a demigod;Fiction;8.8;88000;https://www.amazon.com/percy-jackson
+Gone Girl;Gillian Flynn;A wife goes missing, and her husband is the suspect;Fiction;8.8;84000;https://www.amazon.com/gone-girl
+A Game of Thrones;George R.R. Martin;Noble houses vie for control of the Seven Kingdoms;Fiction;8.9;100000;https://www.amazon.com/game-of-thrones
+The Girl on the Train;Paula Hawkins;A woman becomes entangled in a mystery;Mystery;8.7;76000;https://www.amazon.com/girl-on-the-train
+The Da Vinci Code;Dan Brown;A symbologist uncovers a religious conspiracy;Fiction;9.2;94000;https://www.amazon.com/da-vinci-code
+The Secret;Rhonda Byrne;Law of attraction and positive thinking;Fiction;8.8;56000;https://www.amazon.com/the-secret
+The Subtle Art of Not Giving a F*ck;Mark Manson;Self-help with a brutally honest twist;Fiction;8.7;69000;https://www.amazon.com/subtle-art
+Sapiens;Yuval Noah Harari;A brief history of humankind;Fiction;8.9;97000;https://www.amazon.com/sapiens
+Educated;Tara Westover;A memoir of growing up off the grid and escaping through education;Fiction;8.5;85000;https://www.amazon.com/educated
+Thinking, Fast and Slow;Daniel Kahneman;Insights into how we think and make decisions;Fiction;9.0;93000;https://www.amazon.com/thinking-fast-slow
+Becoming;Michelle Obama;Memoir of the former First Lady;Fiction;9.4;91000;https://www.amazon.com/becoming
+The Silent Patient;Alex Michaelides;A woman shoots her husband and stops speaking;Fiction;8.0;74000;https://www.amazon.com/silent-patient
+Where the Crawdads Sing;Delia Owens;Mystery and nature in the marshlands;Mystery;9.2;82000;https://www.amazon.com/crawdads-sing
+Verity;Colleen Hoover;An author uncovers shocking secrets;Fiction;8.8;73000;https://www.amazon.com/verity
+Atomic Habits;James Clear;Tiny changes that yield remarkable results;Fiction;9.3;98000;https://www.amazon.com/atomic-habits
+The Midnight Library;Matt Haig;A woman explores alternate versions of her life;Fiction;8.6;75000;https://www.amazon.com/midnight-library
