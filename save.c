@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>  // for malloc, exit, free
 #include <string.h>  // for strcspn
-#include "karo.h"
+#include "save.h"
 
 char *title;           // I created pointers for dynamic memory allocation
 char *author;           //This is important for the malloc function below

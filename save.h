@@ -1,6 +1,6 @@
-// karo.h
-#ifndef KARO_H
-#define KARO_H
+// save.h
+#ifndef SAVE_H
+#define SAVE_H
 
 #include <stdio.h>
 
