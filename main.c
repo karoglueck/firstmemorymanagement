@@ -5,8 +5,8 @@
 #include "save.h"
 #include "editfunction.h"
 
-// TO COMPILE: gcc mainoutlineprogram.c retrieve.c karo.c editfunction.c -o mainoutlineprogram --> add the .c functions that you are using as well
-// run with ./mainoutlineprogram
+// TO COMPILE: gcc main.c retrieve.c save.c editfunction.c -o main --> add the .c functions that you are using as well
+// run with ./main
 
 void whensave (){
     int Option2;
